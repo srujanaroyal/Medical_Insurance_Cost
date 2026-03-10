@@ -1,7 +1,5 @@
+streamlit==1.29.0
 pandas
 numpy
 scikit-learn
-streamlit
-flask
-
-pickle-mixin
+altair==4.2.2
